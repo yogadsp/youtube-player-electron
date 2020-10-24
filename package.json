@@ -1,0 +1,15 @@
+{
+  "name": "youtube-custom-player",
+  "version": "0.0.1",
+  "description": "The new youtube video player.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "yogadwiseptana",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.3",
+    "electron-packager": "^15.1.0"
+  }
+}
